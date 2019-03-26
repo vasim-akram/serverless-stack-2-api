@@ -1,4 +1,4 @@
-service: notes-app-api
+service: notes-app-2-api
 
 # Use the serverless-webpack plugin to transpile ES6
 plugins:
