@@ -1,0 +1,12 @@
+{
+    "body": {
+      "storage": 20,
+      "source": "tok_visa"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
+  
